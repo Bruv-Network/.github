@@ -2,7 +2,7 @@
 
 # Bruv Network
 
-A Modded Minecraft Server Network
+TBD
 
 [![](https://discordapp.com/api/guilds/629225387641274388/widget.png?style=banner2)](https://discord.gg/Xh9JGbWJ7M)
 
